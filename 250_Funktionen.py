@@ -12,7 +12,7 @@
 # Funktionsdefinition
 # Schlüsselwort def (von define - definieren)
 def meine_erste_funktion():
-    print('Hello Milad')
+    print('Hello Ferhat')
     # print('Hallo Welt')
 
 # Funktionsaufruf
